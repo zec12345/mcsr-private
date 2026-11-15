@@ -1,11 +1,4 @@
-<<<<<<< HEAD
 node_modules
 dist
 *.local
 .DS_Store
-=======
-node_modules
-dist
-*.local
-.DS_Store
->>>>>>> 0c65a2961f7db6832bc3a2725e65c87241965e32
